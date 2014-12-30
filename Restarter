@@ -1,0 +1,3 @@
+@echo off
+echo
+kill arma3server.exe
